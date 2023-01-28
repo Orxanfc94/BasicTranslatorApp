@@ -1,7 +1,9 @@
 *{
     font-family: sans-serif;
 }
-
+body{
+    background-color:#fff;
+}
 .container {
     width: 80%;
     margin: 0 auto;
